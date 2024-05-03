@@ -1,0 +1,14 @@
+C:\Daniel\TestProjects\CreateXmlDocument\bin\Debug\net8.0\CreateXmlDocument.exe
+C:\Daniel\TestProjects\CreateXmlDocument\bin\Debug\net8.0\CreateXmlDocument.deps.json
+C:\Daniel\TestProjects\CreateXmlDocument\bin\Debug\net8.0\CreateXmlDocument.runtimeconfig.json
+C:\Daniel\TestProjects\CreateXmlDocument\bin\Debug\net8.0\CreateXmlDocument.dll
+C:\Daniel\TestProjects\CreateXmlDocument\bin\Debug\net8.0\CreateXmlDocument.pdb
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.AssemblyInfoInputs.cache
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.AssemblyInfo.cs
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.csproj.CoreCompileInputs.cache
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.dll
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\refint\CreateXmlDocument.dll
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.pdb
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\CreateXmlDocument.genruntimeconfig.cache
+C:\Daniel\TestProjects\CreateXmlDocument\obj\Debug\net8.0\ref\CreateXmlDocument.dll

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|c:\\daniel\\testprojects\\createxmldocument\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|c:\\daniel\\testprojects\\createxmldocument\\models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|solutionrelative:models\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|c:\\daniel\\testprojects\\createxmldocument\\models\\reexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|solutionrelative:models\\reexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|c:\\daniel\\testprojects\\createxmldocument\\models\\salaryinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA014300-80CC-449F-96C5-CC24CDB5DD3A}|CreateXmlDocument.csproj|solutionrelative:models\\salaryinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryInformation.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\SalaryInformation.cs",
+              "RelativeDocumentMoniker": "Models\\SalaryInformation.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\SalaryInformation.cs",
+              "RelativeToolTip": "Models\\SalaryInformation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:23:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReExport.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\ReExport.cs",
+              "RelativeDocumentMoniker": "Models\\ReExport.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\ReExport.cs",
+              "RelativeToolTip": "Models\\ReExport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:30:15.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\Header.cs",
+              "RelativeDocumentMoniker": "Models\\Header.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Models\\Header.cs",
+              "RelativeToolTip": "Models\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T10:23:22.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Daniel\\TestProjects\\CreateXmlDocument\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T09:34:52.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
